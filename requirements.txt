@@ -1,0 +1,8 @@
+ultralytics==8.3.235
+jupyterlab
+papermill
+pandas
+tabulate
+tensorrt
+onnx
+onnxsim
